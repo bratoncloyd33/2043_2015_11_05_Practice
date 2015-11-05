@@ -1,0 +1,58 @@
+Notes for Starting git in 2043
+
+Step 1, get an online github.com account.
+Your username for reference: cloydb@student.swosu.edu
+
+Step 2, Use a machine that has git installed.
+
+Step 3, go to the command prompt and lets get started.
+
+cmd 1: Get to the folder.
+
+use *dir* to find out what is in the directory.
+
+```
+C:\Users\LAB>dir
+ Volume in drive C is OS
+ Volume Serial Number is C418-8914
+
+ Directory of C:\Users\LAB
+
+06/21/2012  01:13 PM    <DIR>          .
+06/21/2012  01:13 PM    <DIR>          ..
+05/14/2015  08:11 AM    <DIR>          Contacts
+11/05/2015  08:12 AM    <DIR>          Desktop
+05/14/2015  08:11 AM    <DIR>          Documents
+05/14/2015  08:11 AM    <DIR>          Downloads
+05/14/2015  08:11 AM    <DIR>          Favorites
+05/14/2015  08:11 AM    <DIR>          Links
+05/14/2015  08:11 AM    <DIR>          Music
+05/14/2015  08:11 AM    <DIR>          Pictures
+05/14/2015  08:11 AM    <DIR>          Saved Games
+05/14/2015  08:11 AM    <DIR>          Searches
+05/14/2015  08:11 AM    <DIR>          Videos
+               0 File(s)              0 bytes
+              13 Dir(s)  410,929,750,016 bytes free
+
+C:\Users\LAB>cd Desktop
+
+C:\Users\LAB\Desktop>dir
+ Volume in drive C is OS
+ Volume Serial Number is C418-8914
+
+ Directory of C:\Users\LAB\Desktop
+
+11/05/2015  08:12 AM    <DIR>          .
+11/05/2015  08:12 AM    <DIR>          ..
+11/05/2015  08:13 AM    <DIR>          git practice
+06/21/2012  02:16 PM             1,553 Report Problems-ITS.lnk
+               1 File(s)          1,553 bytes
+               3 Dir(s)  410,929,750,016 bytes free
+
+C:\Users\LAB\Desktop>git practice
+git: 'practice' is not a git command. See 'git --help'.
+
+C:\Users\LAB\Desktop>cd git practice
+
+C:\Users\LAB\Desktop\git practice>
+```
